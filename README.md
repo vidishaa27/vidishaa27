@@ -95,14 +95,6 @@ Superstore Sales Analysis & Interactive Power BI Dashboard — analyzing retail 
 
 </div>
 
-## 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=vidishaa27&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
 ## 📊 Contribution Activity
 
 <div align="center">
