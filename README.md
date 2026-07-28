@@ -2,7 +2,7 @@
 
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a5f&height=220&section=header&text=Hi%20There,%20I'm%20Vidishaa%20%F0%9F%91%8B&fontSize=38&fontColor=7dd3fc&fontAlignY=38&animation=twinkling&desc=CSE%20Student&descAlignY=55&descSize=18)](https://github.com/vidishaa27)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=CSE+Student+%F0%9F%8E%93;Building+MemoryLane+%F0%9F%93%B7;Turning+Data+into+Insights+with+Power+BI+%F0%9F%93%8A;Always+Learning%2C+Always+Building+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=CSE+Student;Building+MemoryLane;Turning+Data+into+Insights+with+Power+BI;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=vidishaa27&color=7dd3fc&style=flat-square&label=Profile+Views)](https://github.com/vidishaa27)
 [![Followers](https://img.shields.io/github/followers/vidishaa27?style=flat-square&color=7dd3fc&label=Followers&labelColor=0f172a)](https://github.com/vidishaa27?tab=followers)
